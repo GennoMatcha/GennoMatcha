@@ -1,3 +1,5 @@
+![preview](https://images.plurk.com/4gYnUUiAGnyWWpyMRCBPlx.png)
+
 # 源之抹茶・源之抹茶那提
 是基於[思源](https://github.com/adobe-fonts/source-han-sans)派生字體[源暎ラテン](https://okoneya.jp/font/genei-latin.html)所製，明黑/明圓混和風格的開源假名字體，目前僅完成片假名部分
 
